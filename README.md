@@ -1,8 +1,7 @@
-### Hi there 👋
+## Hello, I'm [Shubham Rajput !](https://skr010561.myportfolio.com/) 👋
 
 “Aluta continua, vitória é certa”
 
-## Hola, I'm [Shubham Rajput !](https://skr010561.myportfolio.com/) 👋
 
 I'm currently studying in Government College Of Engineering Nagpur, with specialization in Computer Science and Engineering. I've a good acquaintance in web development along with a great programming experience in Python , C++ and C programming language. 
 
