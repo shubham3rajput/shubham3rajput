@@ -2,18 +2,14 @@
 
 “Aluta continua, vitória é certa”
 
-Hello! This is Shubham Rajput.
+## Hola, I'm [Shubham Rajput !](https://skr010561.myportfolio.com/) 👋
+
 I'm currently studying in Government College Of Engineering Nagpur, with specialization in Computer Science and Engineering. I've a good acquaintance in web development along with a great programming experience in Python , C++ and C programming language. 
 
 
 ⭐ Python Developer 💻 
 ⭐ Flutter Developer 📱 
 ⭐ Final Year CSE Student @GCOE Nagpur
-
-
-
-
-## Hola, I'm [Shubham Rajput !](https://skr010561.myportfolio.com/) 👋
 
 
 <a href="https://twitter.com/Shubham3Rajput">
