@@ -7,8 +7,11 @@ I'm currently studying in Government College Of Engineering Nagpur, with special
 
 
 ⭐ Python Developer 💻 
+<br/>
 ⭐ Flutter Developer 📱 
+<br/>
 ⭐ Final Year CSE Student @GCOE Nagpur
+<br/>
 
 
 <a href="https://twitter.com/Shubham3Rajput">
