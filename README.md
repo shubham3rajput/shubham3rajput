@@ -6,9 +6,7 @@
 Currently working in one of the largest player of the IT Industry with 3+ years experience in various tech stacks including but not limited to Microsoft Azure,Intune, Endpoint Management,SCCM,OSD,Server Management,Windows Administration,Python,Java,C++,C, Web development,Machine learning,Object Orient Programming,Flutter,Data Science,Statistics,Data Analytics and few others.
 
 
-<br/><br/><br/>
-
-
+<br/>
 <a href="https://twitter.com/Shubham3Rajput">
   <img align="left" alt="SKR's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
