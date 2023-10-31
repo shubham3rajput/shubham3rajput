@@ -3,7 +3,7 @@
 ## [ “Aluta continua, vitória é certa” ](https://www.google.com/search?rlz=1C1SQJL_enIN886IN886&sxsrf=ALeKk00FIDKFe0skE5XkzcV9_y19Mx7jMA%253A1599419855531&ei=zzVVX5ONIJSW4-EP9bam-AE&q=a+luta+continua+vit%25C3%25B3ria+%25C3%25A9+certa+meaning&oq=%25E2%2580%259CAluta+continua%252C+vit%25C3%25B3ria+%25C3%25A9+certa%25E2%2580%259D+m&gs_lcp=CgZwc3ktYWIQARgAMgQIABANOgcIABCwAxANUPQSWOkbYNQraAFwAHgAgAHfAYgBjQOSAQUwLjEuMZgBAKABAaoBB2d3cy13aXrAAQE&sclient=psy-ab)
 
 
-I'm currently studying in Government College Of Engineering Nagpur, with specialization in Computer Science and Engineering. I've a good acquaintance in web development along with a great programming experience in Python , C++ and C programming language. 
+Currently working in one of the largest player of the IT Industry with 3+ years experience in various tech stacks including but not limited to Microsoft Azure,Intune, Endpoint Management,SCCM,OSD,Server Management,Windows Administration,Python,Java,C++,C, Web development,Machine learning,Object Orient Programming and few others.
 
 
 ⭐ Python Developer 💻 
