@@ -1,4 +1,4 @@
-## Hello, I'm [Shubham Rajput !](https://www.linkedin.com/in/shubham3rajput/) 👋
+## Hello, I'm [Shubham Rajput !](https://www.linkedin.com/in/shubham3rajput/](https://shubham3rajput.github.io/skr010561.myportfolio.com/index.html) 👋
 
 ## [ “Aluta continua, vitória é certa” ](https://alutacontinua.wordpress.com/2010/09/20/a-luta-continua-vitoria-e-certa/)
 
