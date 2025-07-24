@@ -3,7 +3,7 @@
 ## [ “Aluta continua, vitória é certa” ](https://alutacontinua.wordpress.com/2010/09/20/a-luta-continua-vitoria-e-certa/)
 
 
-Currently working with one of the largest player of the IT Industry with 3+ years experience in various tech stacks including but not limited to Microsoft Azure,Intune, Endpoint Management,SCCM,OSD,Server Management,Windows Administration,Python,Java,C++,C, Web development,Machine learning,Object Orient Programming,Flutter,Data Science,Statistics,Data Analytics and few others.
+Currently working with one of the largest player of the IT Industry with 4+ years experience in various tech stacks including but not limited to Microsoft Azure,Intune, Endpoint Management,SCCM,OSD,Server Management,Windows Administration,Python,Java,C++,C, Web development,Machine learning,Object Orient Programming,Flutter,Data Science,Statistics,Data Analytics and few others.
 
 
 <br/>
